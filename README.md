@@ -1,16 +1,12 @@
- Patient-Managment-System-in-java-FX
+  Patient-Managment-System-in-java-FX
 
 This project is Developed in pure java language and java FX technologies. 
 Front-end developed in java FXML and back-end debveloped in java lnguage. And mySQL database is used to store data.
-
-Features
-
-
-Multipal Users of system (Admin, Guest, computer operator etc.
+  Features
+  Multipal Users of system (Admin, Guest, computer operator etc.
 admin can Manage Doctor records.
 computer operator can manage Patient and disease records.
-
-Screen shorts
+  Screen shorts
   
   Login
   
